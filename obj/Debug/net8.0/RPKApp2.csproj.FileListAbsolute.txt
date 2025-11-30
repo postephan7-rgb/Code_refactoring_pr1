@@ -1,0 +1,28 @@
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/bin/Debug/net8.0/RPKApp2.exe
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/bin/Debug/net8.0/RPKApp2.deps.json
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/bin/Debug/net8.0/RPKApp2.runtimeconfig.json
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/bin/Debug/net8.0/RPKApp2.dll
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/bin/Debug/net8.0/RPKApp2.pdb
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.AssemblyInfoInputs.cache
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.AssemblyInfo.cs
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.csproj.CoreCompileInputs.cache
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.dll
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/refint/RPKApp2.dll
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.pdb
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/RPKApp2.genruntimeconfig.cache
+C:/Users/ASUS/RiderProjects/RPKApp1/RPKApp2/obj/Debug/net8.0/ref/RPKApp2.dll
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/bin/Debug/net8.0/RPKApp2
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/bin/Debug/net8.0/RPKApp2.deps.json
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/bin/Debug/net8.0/RPKApp2.runtimeconfig.json
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/bin/Debug/net8.0/RPKApp2.dll
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/bin/Debug/net8.0/RPKApp2.pdb
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.AssemblyInfoInputs.cache
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.AssemblyInfo.cs
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.csproj.CoreCompileInputs.cache
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.dll
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/refint/RPKApp2.dll
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.pdb
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/RPKApp2.genruntimeconfig.cache
+/Users/spo/Downloads/Практическое задание 1 (1)/RPKApp2/obj/Debug/net8.0/ref/RPKApp2.dll

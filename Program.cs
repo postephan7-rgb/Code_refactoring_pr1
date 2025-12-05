@@ -10,7 +10,6 @@ namespace RPKApp2
     {
         static void Main(string[] args)
         {
-            // --- Инициализация инфраструктуры и сервисов ---
             var inventoryService = new InventoryService();
             var database = new InMemoryDatabase();
             var emailSender = new EmailSender();
@@ -18,7 +17,6 @@ namespace RPKApp2
             var notificationService = new NotificationService(emailSender, smsSender);
             var orderService = new OrderService(inventoryService, database, notificationService);
 
-            // --- Инициализация инвентаря ---
             var product1 = new Product(
                 id: "prod1",
                 name: "Laptop",
@@ -30,14 +28,12 @@ namespace RPKApp2
 
             inventoryService.AddProduct(product1);
 
-            // --- Создание пользователя ---
             var user = new User(
                 id: "user1",
                 email: "user@example.com",
                 phone: "123-456-7890"
             );
 
-            // --- Создание заказа ---
             var items = new List<OrderItem>
             {
                 new OrderItem(product1, quantity: 2)
@@ -57,7 +53,6 @@ namespace RPKApp2
                 Console.WriteLine($"Error: {ex.Message}");
             }
 
-            // --- Пример создания продукта через отдельный метод ---
             var product = CreateProduct(
                 name: "Laptop",
                 description: "Gaming laptop",
